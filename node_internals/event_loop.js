@@ -34,11 +34,6 @@ while(shouldContinue()){
     // 4. Look at pendingTimers. Call any settImmediate
 
     // 5. Handle any 'close' event
-
-
-
-
-
 }
 
 // Exit back to terminal
