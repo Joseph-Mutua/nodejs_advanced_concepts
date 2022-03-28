@@ -1,3 +1,5 @@
+process.env.UV_THREADPOOL_SIZE = 2
+
 const crypto = require("crypto");
 
 // Check how long the function takes to run in ms
